@@ -55,6 +55,7 @@ Provides a graphical user interface for testing the linked list.
 ### Compile
 ```bash
 javac src/singly/*.java
+```
 
 ---
 
